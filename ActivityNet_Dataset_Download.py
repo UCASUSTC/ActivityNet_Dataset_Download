@@ -4,7 +4,7 @@ from pprint import pprint
 import pafy
 
 # specify download directory
-directory = 'dataset'
+directory = '/path/to/your/directory/'
 videoCounter = 0
 
 # open json file
